@@ -1,1 +1,1 @@
-About Redux
+About Redux and method
